@@ -1,0 +1,554 @@
+﻿Log file open, 11/28/18 13:48:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectShip
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.317410
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.088s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.28-12.48.31:169][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-12.48.31:169][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.28-12.48.31:185][  0]LogHAL: Display: Platform has ~ 16 GB [17066762240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.28-12.48.31:185][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.28-12.48.31:185][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.28-12.48.31:185][  0]LogInit: Computer: RAZER-BLADE
+[2018.11.28-12.48.31:185][  0]LogInit: User: alexi
+[2018.11.28-12.48.31:185][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.28-12.48.31:185][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2018.11.28-12.48.31:185][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.28-12.48.31:185][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.28-12.48.31:185][  0]LogMemory: Process Physical Memory: 100.98 MB used, 100.98 MB peak
+[2018.11.28-12.48.31:185][  0]LogMemory: Process Virtual Memory: 89.81 MB used, 89.81 MB peak
+[2018.11.28-12.48.31:185][  0]LogMemory: Physical Memory: 6481.86 MB used,  9794.27 MB free, 16276.13 MB total
+[2018.11.28-12.48.31:185][  0]LogMemory: Virtual Memory: 4643.41 MB used,  9794.27 MB free, 134217728.00 MB total
+[2018.11.28-12.48.31:206][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.28-12.48.31:206][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.28-12.48.31:207][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.28-12.48.31:209][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2018.11.28-12.48.31:209][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.28-12.48.31:258][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.28-12.48.31:258][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.28-12.48.31:482][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2018.11.28-12.48.31:482][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.28-12.48.31:558][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.11.28-12.48.31:559][  0]LogD3D11RHI:       6061/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.28-12.48.31:574][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.28-12.48.31:574][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.28-12.48.31:578][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.28-12.48.31:578][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.28-12.48.31:578][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.28-12.48.31:606][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.28-12.48.31:606][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.28-12.48.31:606][  0]LogWindows: EnumDisplayDevices:
+[2018.11.28-12.48.31:606][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.28-12.48.31:607][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.28-12.48.31:607][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.28-12.48.31:607][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.28-12.48.31:607][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.11.28-12.48.31:607][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.11.28-12.48.31:607][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2018.11.28-12.48.31:607][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2018.11.28-12.48.31:607][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.11.28-12.48.31:648][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.28-12.48.31:694][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.28-12.48.31:695][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Intermediate/Shaders/WorkingDirectory/13112/).
+[2018.11.28-12.48.31:695][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexi/AppData/Local/Temp/UnrealShaderWorkingDir/9CF0447A42D8A84C9705328FF9A24901/'.
+[2018.11.28-12.48.32:016][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.28-12.48.32:034][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.28-12.48.32:051][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.28-12.48.32:071][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.28-12.48.32:091][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.28-12.48.32:107][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.28-12.48.32:125][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.28-12.48.32:144][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.28-12.48.32:153][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:262][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:263][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:263][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:263][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.48.32:264][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.28-12.48.32:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-12.48.32:334][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-12.48.32:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-12.48.32:364][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-12.48.32:381][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.28-12.48.32:397][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.28-12.48.32:415][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.28-12.48.32:432][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.28-12.48.32:443][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.28-12.48.32:443][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.28-12.48.32:518][  0]LogXGEController: Cleaning working directory: C:/Users/alexi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.28-12.48.32:518][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.28-12.48.32:518][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.28-12.48.32:518][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.28-12.48.33:385][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.28-12.48.33:459][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-12.48.33:459][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.28-12.48.33:460][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.28-12.48.33:460][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.28-12.48.33:460][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.28-12.48.33:460][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.28-12.48.33:474][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.28-12.48.33:487][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.28-12.48.33:487][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.28-12.48.33:487][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.28-12.48.33:509][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.28-12.48.33:511][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.28-12.48.33:512][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.28-12.48.33:590][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.11.28-12.48.34:012][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-12.48.34:195][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.28-12.48.34:199][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.28-12.48.34:199][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.28-12.48.34:199][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.28-12.48.34:199][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.28-12.48.34:217][  0]LogNetVersion: ProjectShip 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2633931975)
+[2018.11.28-12.48.34:902][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.127788 seconds
+[2018.11.28-12.48.34:911][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.28-12.48.34:911][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.28-12.48.34:911][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.28-12.48.35:851][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.28-12.48.35:865][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.28-12.48.36:029][  0]SourceControl: Source control is disabled
+[2018.11.28-12.48.36:029][  0]SourceControl: Source control is disabled
+[2018.11.28-12.48.36:030][  0]SourceControl: Source control is disabled
+[2018.11.28-12.48.36:031][  0]SourceControl: Source control is disabled
+[2018.11.28-12.48.36:211][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.28-12.48.36:342][  0]LogOcInput: OculusInput pre-init called
+[2018.11.28-12.48.36:417][  0]LogEngine: Initializing Engine...
+[2018.11.28-12.48.36:418][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2018.11.28-12.48.36:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-12.48.36:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-12.48.36:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-12.48.36:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-12.48.36:676][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.28-12.48.36:694][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.28-12.48.36:727][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-12.48.36:798][  0]LogInit: FAudioDevice initialized.
+[2018.11.28-12.48.36:799][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.28-12.48.36:854][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-12.48.36:864][  0]LogInit: Texture streaming: Enabled
+[2018.11.28-12.48.36:885][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.28-12.48.36:885][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={10906BA4-4316-682F-2A93-51917DAD8419}
+[2018.11.28-12.48.36:901][  0]LogInit: Transaction tracking system initialized
+[2018.11.28-12.48.36:928][  0]BlueprintLog: New page: Editor Load
+[2018.11.28-12.48.37:024][  0]LocalizationService: Localization service is disabled
+[2018.11.28-12.48.37:337][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.28-12.48.37:337][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.28-12.48.37:337][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.28-12.48.37:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-12.48.37:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-12.48.37:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-12.48.37:337][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-12.48.37:460][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/' took 0.01s
+[2018.11.28-12.48.37:460][  0]SourceControl: Source control is disabled
+[2018.11.28-12.48.37:461][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Scene/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-12.48.37:461][  0]LightingResults: New page: Lighting Build
+[2018.11.28-12.48.37:464][  0]MapCheck: New page: Map Check
+[2018.11.28-12.48.37:464][  0]LightingResults: New page: Lighting Build
+[2018.11.28-12.48.38:655][  0]LogAIModule: Creating AISystem for world Test
+[2018.11.28-12.48.38:671][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-12.48.38:704][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-12.48.38:797][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92,707ms to complete.
+[2018.11.28-12.48.38:797][  0]LogFileHelpers: Loading map 'Test' took 1.336
+[2018.11.28-12.48.38:942][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.48.38:951][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.48.38:961][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.48.38:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.48.38:979][  0]LogCollectionManager: Loaded 0 collections in 0.002293 seconds
+[2018.11.28-12.48.39:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/Collections/' took 0.01s
+[2018.11.28-12.48.39:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Developers/alexi/Collections/' took 0.01s
+[2018.11.28-12.48.39:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Collections/' took 0.01s
+[2018.11.28-12.48.39:023][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.28-12.48.39:037][  0]LogContentBrowser: Native class hierarchy populated in 0.0140 seconds. Added 2572 classes and 603 folders.
+[2018.11.28-12.48.39:046][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.28-12.48.39:090][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.28-12.48.39:096][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.28-12.48.40:348][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.28-12.48.40:383][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.28-12.48.40:386][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.28-12.48.40:394][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.28-12.48.40:551][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProjectShip
+[2018.11.28-12.48.40:551][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-12.48.40:551][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.11.28-12.48.40:551][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-12.48.40:551][  0]LogTemp: BranchPath = RAZER-BLADE/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = RAZER-BLADE/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.28-12.48.40:551][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alexi\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.28-12.48.40:551][  0]LogRenderer: Reallocating scene render targets to support 1152x608 Format 10 NumSamples 1 (Frame:1).
+[2018.11.28-12.48.40:768][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.28-12.48.40:768][  0]LogLoad: (Engine Initialization) Total time: 11.24 seconds
+[2018.11.28-12.48.40:768][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.28-12.48.40:779][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-12.48.40:806][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.28-12.48.40:863][  1]LogAssetRegistry: Asset discovery search completed in 7.2952 seconds
+[2018.11.28-12.48.40:865][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.28-12.48.40:865][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.11.28-12.48.41:869][ 27]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.28-12.48.44:178][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-12.48.44:302][220]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/SpaceShip.SpaceShip
+[2018.11.28-12.48.44:985][220]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.11.28-12.48.46:013][220]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.28-12.48.46:459][220]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.28-12.48.46:695][221]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.28-12.48.51:709][378]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.11.28-12.49.03:342][278]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.49.03:404][278]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:600][278]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-12.49.03:630][278]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0034,10] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 288 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.49.04:270][318]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/ThirdPersonCharacterF835DAB04B3F0D15DD1191A2D12EC2A7.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.28-12.49.35:274][753]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.49.35:311][753]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.11.28-12.49.35:311][753]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The type of  Object  is undetermined.  Connect something to  Cast To SpaceShip  to imply a specific type.
+[2018.11.28-12.49.35:312][753]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.11.28-12.49.35:562][753]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0066,03] Compile of ThirdPersonCharacter failed. 3 Fatal Issue(s) 0 Warning(s) [in 287 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.49.57:769][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.28-12.50.00:720][461]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.11.28-12.50.06:969][929]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.52.03:444][421]LogEditorTransaction: Undo Add Node
+[2018.11.28-12.52.40:276][577]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.52.40:313][577]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 'Space Ship' does not inherit from 'Child Actor Component' ( Cast To SpaceShip  would always fail).
+[2018.11.28-12.52.40:315][577]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.11.28-12.52.40:546][577]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0251,02] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 1 Warning(s) [in 269 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.53.22:713][497]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.53.22:748][497]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.11.28-12.53.22:964][497]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0293,43] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 250 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.53.33:630][455]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.53.33:663][455]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2018.11.28-12.53.33:663][455]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.11.28-12.53.33:873][455]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0304,34] Compile of ThirdPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 242 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.53.45:027][483]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.53.45:064][483]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.11.28-12.53.45:286][483]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0315,76] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 259 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.53.51:447][ 60]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.53.52:653][145]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-12.53.52:680][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.53.52:680][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-12.53.52:693][145]PIE: New page: PIE session: Test (28 nov. 2018 14:53:52)
+[2018.11.28-12.53.52:693][145]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-12.53.52:705][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012084s)
+[2018.11.28-12.53.52:707][145]LogAIModule: Creating AISystem for world Test
+[2018.11.28-12.53.52:707][145]LogPlayLevel: PIE: World Init took: (0.001734s)
+[2018.11.28-12.53.52:707][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.014061s)
+[2018.11.28-12.53.52:753][145]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-12.53.52:770][145]LogInit: FAudioDevice initialized.
+[2018.11.28-12.53.52:777][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.53.52:894][145]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-12.53.52:896][145]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-13.53.52
+[2018.11.28-12.53.52:897][145]LogWorld: Bringing up level for play took: 0.001604
+[2018.11.28-12.53.52:921][145]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.28-12.53.52:928][145]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 0,915
+[2018.11.28-12.53.52:928][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.53.54:864][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.53.57:980][533]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.53.58:407][570]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.53.58:629][589]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.53.58:815][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.53.59:032][623]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.00:719][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.00:720][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.54.00:747][733]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-12.54.00:791][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-12.54.00:791][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.00:850][734]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.28-12.54.10:524][582]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.54.12:808][782]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-12.54.12:836][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.12:836][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-12.54.12:836][782]PIE: New page: PIE session: Test (28 nov. 2018 14:54:12)
+[2018.11.28-12.54.12:836][782]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-12.54.12:847][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010735s)
+[2018.11.28-12.54.12:848][782]LogAIModule: Creating AISystem for world Test
+[2018.11.28-12.54.12:849][782]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2018.11.28-12.54.12:849][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.012439s)
+[2018.11.28-12.54.12:887][782]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-12.54.12:904][782]LogInit: FAudioDevice initialized.
+[2018.11.28-12.54.12:914][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.54.13:001][782]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-12.54.13:003][782]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-13.54.13
+[2018.11.28-12.54.13:003][782]LogWorld: Bringing up level for play took: 0.001329
+[2018.11.28-12.54.13:022][782]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 1,009
+[2018.11.28-12.54.13:023][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.14:567][894]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.15:711][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.15:711][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.54.15:739][979]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-12.54.15:810][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-12.54.15:810][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.15:880][980]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.28-12.54.20:171][302]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.54.20:815][329]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-12.54.20:841][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.20:841][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-12.54.20:841][329]PIE: New page: PIE session: Test (28 nov. 2018 14:54:20)
+[2018.11.28-12.54.20:841][329]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-12.54.20:852][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010652s)
+[2018.11.28-12.54.20:853][329]LogAIModule: Creating AISystem for world Test
+[2018.11.28-12.54.20:853][329]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.11.28-12.54.20:853][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.011777s)
+[2018.11.28-12.54.20:897][329]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-12.54.20:912][329]LogInit: FAudioDevice initialized.
+[2018.11.28-12.54.20:924][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.54.21:009][329]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-12.54.21:011][329]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-13.54.21
+[2018.11.28-12.54.21:011][329]LogWorld: Bringing up level for play took: 0.001325
+[2018.11.28-12.54.21:029][329]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 1,016
+[2018.11.28-12.54.21:029][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.22:434][433]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.24:563][568]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.24:829][572]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.25:110][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.25:291][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.25:514][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.25:739][620]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.27:425][747]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-12.54.28:262][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.28:263][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.54.28:289][818]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-12.54.28:330][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-12.54.28:331][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-12.54.28:392][819]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.28-12.54.52:013][ 54]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.54.52:047][ 54]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2018.11.28-12.54.52:258][ 54]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0382,73] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 244 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.54.55:029][308]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/ThirdPersonCharacter18B058164BF892F8255DC8BD295C765F.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.28-12.56.32:825][599]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.56.50:417][520]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.56.50:447][520]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 'Space Ship' does not inherit from 'Third Person Character' ( Cast To SpaceShip  would always fail).
+[2018.11.28-12.56.50:670][520]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0501,14] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 252 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.57.11:589][941]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.57.11:621][941]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] 'Space Ship' does not inherit from 'Third Person Character' ( Cast To SpaceShip  would always fail).
+[2018.11.28-12.57.11:846][941]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0522,32] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 256 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2018.11.28-12.58.18:145][470]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.28-12.58.25:812][145]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.58.52:485][474]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-12.59.00:892][190]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-13.00.28:704][912]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.11.28-13.00.28:704][912]LogD3D11RHI: [Aftermath] GDynamicRHI=000002640108A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.11.28-13.00.28:704][912]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2018.11.28-13.00.29:706][912]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2018.11.28-13.00.29:706][912]LogWindows: Error: === Critical error: ===
+[2018.11.28-13.00.29:706][912]LogWindows: Error: 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: Rendering thread exception:
+[2018.11.28-13.00.29:706][912]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 200] 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2018.11.28-13.00.29:706][912]LogWindows: Error: 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbf2faa388 KERNELBASE.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbdbeb6850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffb9d8f62fc UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffb9d8851db UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbad5aadea UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbad5ae6e4 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbad58d0aa UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbad59ab70 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbe6e2b106 UE4Editor-RHI.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbac411b42 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbac417d0a UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffb9d711f92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffb9d712456 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbe6f375f9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbe6f38574 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffb9db56b7c UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffb9db517c7 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbf61b3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: [Callstack] 0x00007ffbf6b61471 ntdll.dll!UnknownFunction []
+[2018.11.28-13.00.29:706][912]LogWindows: Error: 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: 
+[2018.11.28-13.00.29:706][912]LogWindows: Error: 
+[2018.11.28-13.00.29:723][912]LogExit: Executing StaticShutdownAfterError
+[2018.11.28-13.00.29:727][912]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.11.28-13.00.29:735][912]Log file closed, 11/28/18 14:00:29

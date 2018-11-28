@@ -1,0 +1,357 @@
+﻿Log file open, 11/28/18 13:47:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectShip
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.320149
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.106s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.28-12.47.47:634][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-12.47.47:634][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.28-12.47.47:652][  0]LogHAL: Display: Platform has ~ 16 GB [17066762240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.28-12.47.47:652][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.28-12.47.47:652][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.28-12.47.47:652][  0]LogInit: Computer: RAZER-BLADE
+[2018.11.28-12.47.47:652][  0]LogInit: User: alexi
+[2018.11.28-12.47.47:652][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.28-12.47.47:652][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2018.11.28-12.47.47:653][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.28-12.47.47:653][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.28-12.47.47:653][  0]LogMemory: Process Physical Memory: 101.02 MB used, 101.02 MB peak
+[2018.11.28-12.47.47:653][  0]LogMemory: Process Virtual Memory: 89.50 MB used, 89.50 MB peak
+[2018.11.28-12.47.47:653][  0]LogMemory: Physical Memory: 6468.15 MB used,  9807.98 MB free, 16276.13 MB total
+[2018.11.28-12.47.47:653][  0]LogMemory: Virtual Memory: 4643.41 MB used,  9807.98 MB free, 134217728.00 MB total
+[2018.11.28-12.47.47:685][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.28-12.47.47:685][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.28-12.47.47:686][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.28-12.47.47:689][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2018.11.28-12.47.47:689][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.28-12.47.47:742][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.28-12.47.47:743][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.28-12.47.47:977][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2018.11.28-12.47.47:977][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.28-12.47.48:058][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.11.28-12.47.48:058][  0]LogD3D11RHI:       6061/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.28-12.47.48:072][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.28-12.47.48:072][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.28-12.47.48:075][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.28-12.47.48:075][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.28-12.47.48:075][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.28-12.47.48:097][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.28-12.47.48:097][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.28-12.47.48:097][  0]LogWindows: EnumDisplayDevices:
+[2018.11.28-12.47.48:098][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.28-12.47.48:098][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.28-12.47.48:098][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.28-12.47.48:099][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.28-12.47.48:099][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.11.28-12.47.48:099][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.11.28-12.47.48:099][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2018.11.28-12.47.48:099][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2018.11.28-12.47.48:099][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.11.28-12.47.48:140][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.28-12.47.48:184][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.28-12.47.48:185][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Intermediate/Shaders/WorkingDirectory/12236/).
+[2018.11.28-12.47.48:185][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexi/AppData/Local/Temp/UnrealShaderWorkingDir/6D6FDFA4494A853FAB3242B3873770C1/'.
+[2018.11.28-12.47.48:494][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.28-12.47.48:509][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.28-12.47.48:525][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.28-12.47.48:540][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.28-12.47.48:561][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.28-12.47.48:576][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.28-12.47.48:591][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.28-12.47.48:607][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.28-12.47.48:615][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:711][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-12.47.48:713][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.28-12.47.48:779][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-12.47.48:779][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-12.47.48:803][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-12.47.48:803][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-12.47.48:817][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.28-12.47.48:831][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.28-12.47.48:844][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.28-12.47.48:858][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.28-12.47.48:868][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.28-12.47.48:868][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.28-12.47.48:933][  0]LogXGEController: Cleaning working directory: C:/Users/alexi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.28-12.47.48:933][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.28-12.47.48:933][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.28-12.47.48:933][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.28-12.47.49:862][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.28-12.47.49:928][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-12.47.49:928][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.28-12.47.49:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.28-12.47.49:928][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.28-12.47.49:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.28-12.47.49:928][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.28-12.47.49:944][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.28-12.47.49:957][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.28-12.47.49:957][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.28-12.47.49:957][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.28-12.47.49:985][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.28-12.47.49:987][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.28-12.47.49:988][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.28-12.47.50:078][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.11.28-12.47.50:554][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-12.47.50:619][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.28-12.47.50:622][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.28-12.47.50:622][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.28-12.47.50:623][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.28-12.47.50:623][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.28-12.47.50:751][  0]LogNetVersion: ProjectShip 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2633931975)
+[2018.11.28-12.47.51:358][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.120217 seconds
+[2018.11.28-12.47.51:366][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.28-12.47.51:366][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.28-12.47.51:366][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.28-12.47.52:364][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.28-12.47.52:378][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.28-12.47.52:538][  0]SourceControl: Source control is disabled
+[2018.11.28-12.47.52:538][  0]SourceControl: Source control is disabled
+[2018.11.28-12.47.52:540][  0]SourceControl: Source control is disabled
+[2018.11.28-12.47.52:541][  0]SourceControl: Source control is disabled
+[2018.11.28-12.47.52:716][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.28-12.47.52:848][  0]LogOcInput: OculusInput pre-init called
+[2018.11.28-12.47.52:920][  0]LogEngine: Initializing Engine...
+[2018.11.28-12.47.52:921][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2018.11.28-12.47.52:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-12.47.52:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-12.47.52:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-12.47.52:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-12.47.53:161][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.28-12.47.53:177][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.28-12.47.53:204][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-12.47.53:270][  0]LogInit: FAudioDevice initialized.
+[2018.11.28-12.47.53:271][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.28-12.47.53:321][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-12.47.53:330][  0]LogInit: Texture streaming: Enabled
+[2018.11.28-12.47.53:346][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.28-12.47.53:346][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={DA546A9B-46C2-B61C-D90D-3E9D07D8E29E}
+[2018.11.28-12.47.53:358][  0]LogInit: Transaction tracking system initialized
+[2018.11.28-12.47.53:381][  0]BlueprintLog: New page: Editor Load
+[2018.11.28-12.47.53:453][  0]LocalizationService: Localization service is disabled
+[2018.11.28-12.47.53:745][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.28-12.47.53:745][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.28-12.47.53:745][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.28-12.47.53:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-12.47.53:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-12.47.53:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-12.47.53:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-12.47.53:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/' took 0.02s
+[2018.11.28-12.47.53:892][  0]SourceControl: Source control is disabled
+[2018.11.28-12.47.53:893][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Scene/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-12.47.53:893][  0]LightingResults: New page: Lighting Build
+[2018.11.28-12.47.53:896][  0]MapCheck: New page: Map Check
+[2018.11.28-12.47.53:896][  0]LightingResults: New page: Lighting Build
+[2018.11.28-12.47.55:158][  0]LogAIModule: Creating AISystem for world Test
+[2018.11.28-12.47.55:170][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-12.47.55:198][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-12.47.55:286][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88,679ms to complete.
+[2018.11.28-12.47.55:286][  0]LogFileHelpers: Loading map 'Test' took 1.393
+[2018.11.28-12.47.55:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.47.55:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.47.55:432][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.47.55:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-12.47.55:447][  0]LogCollectionManager: Loaded 0 collections in 0.001608 seconds
+[2018.11.28-12.47.55:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/Collections/' took 0.01s
+[2018.11.28-12.47.55:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Developers/alexi/Collections/' took 0.01s
+[2018.11.28-12.47.55:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Collections/' took 0.01s
+[2018.11.28-12.47.55:489][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.28-12.47.55:500][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2572 classes and 603 folders.
+[2018.11.28-12.47.55:509][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.28-12.47.55:552][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.28-12.47.55:557][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.28-12.47.56:883][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.28-12.47.56:945][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProjectShip
+[2018.11.28-12.47.56:945][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-12.47.56:945][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.11.28-12.47.56:945][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-12.47.56:945][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.28-12.47.56:948][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.28-12.47.56:955][  0]LogTemp: BranchPath = RAZER-BLADE/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = RAZER-BLADE/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.28-12.47.56:955][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.28-12.47.57:119][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alexi\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.28-12.47.57:119][  0]LogRenderer: Reallocating scene render targets to support 1152x608 Format 10 NumSamples 1 (Frame:1).
+[2018.11.28-12.47.57:340][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.28-12.47.57:341][  0]LogLoad: (Engine Initialization) Total time: 11.36 seconds
+[2018.11.28-12.47.57:341][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.28-12.47.57:353][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-12.47.57:388][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.28-12.47.57:467][  2]LogAssetRegistry: Asset discovery search completed in 7.4109 seconds
+[2018.11.28-12.47.57:469][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.28-12.47.57:469][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2018.11.28-12.47.58:402][ 50]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.28-12.48.00:718][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-12.48.00:830][255]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/SpaceShip.SpaceShip
+[2018.11.28-12.48.01:431][255]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.11.28-12.48.02:469][255]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.28-12.48.02:886][255]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.28-12.48.03:060][256]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.28-12.48.08:958][480]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.11.28-12.48.26:309][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.11.28-12.48.26:311][459]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.11.28-12.48.26:311][459]LogD3D11RHI: [Aftermath] GDynamicRHI=0000018CA9F5C100, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.11.28-12.48.26:311][459]LogWindows: Windows GetLastError: L’opération a réussi. (0)

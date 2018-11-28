@@ -1,0 +1,1024 @@
+﻿Log file open, 11/28/18 14:21:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProjectShip
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.313125
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.088s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.28-13.21.54:592][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-13.21.54:592][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.28-13.21.54:610][  0]LogHAL: Display: Platform has ~ 16 GB [17066762240 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.28-13.21.54:610][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.28-13.21.54:610][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.28-13.21.54:611][  0]LogInit: Computer: RAZER-BLADE
+[2018.11.28-13.21.54:611][  0]LogInit: User: alexi
+[2018.11.28-13.21.54:611][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.28-13.21.54:611][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2018.11.28-13.21.54:611][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.28-13.21.54:611][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.28-13.21.54:611][  0]LogMemory: Process Physical Memory: 100.90 MB used, 100.90 MB peak
+[2018.11.28-13.21.54:611][  0]LogMemory: Process Virtual Memory: 89.55 MB used, 89.55 MB peak
+[2018.11.28-13.21.54:611][  0]LogMemory: Physical Memory: 6611.18 MB used,  9664.96 MB free, 16276.13 MB total
+[2018.11.28-13.21.54:611][  0]LogMemory: Virtual Memory: 4643.41 MB used,  9664.96 MB free, 134217728.00 MB total
+[2018.11.28-13.21.54:631][  0]LogInit: Using OS detected language (fr-FR).
+[2018.11.28-13.21.54:631][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.11.28-13.21.54:632][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.11.28-13.21.54:633][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2018.11.28-13.21.54:634][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.28-13.21.54:679][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.28-13.21.54:680][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.28-13.21.54:896][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2018.11.28-13.21.54:896][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.28-13.21.54:967][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.11.28-13.21.54:967][  0]LogD3D11RHI:       6061/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.28-13.21.54:980][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.28-13.21.54:980][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.28-13.21.54:983][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.28-13.21.54:983][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.28-13.21.54:983][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.28-13.21.55:002][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.28-13.21.55:002][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.28-13.21.55:002][  0]LogWindows: EnumDisplayDevices:
+[2018.11.28-13.21.55:002][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.28-13.21.55:002][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.28-13.21.55:002][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.28-13.21.55:002][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.28-13.21.55:003][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.11.28-13.21.55:003][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.11.28-13.21.55:003][  0]LogD3D11RHI:   Driver Version: 388.73 (internal:23.21.13.8873, unified:388.73)
+[2018.11.28-13.21.55:003][  0]LogD3D11RHI:      Driver Date: 12-18-2017
+[2018.11.28-13.21.55:003][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.11.28-13.21.55:044][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.28-13.21.55:081][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.28-13.21.55:082][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Intermediate/Shaders/WorkingDirectory/16912/).
+[2018.11.28-13.21.55:082][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexi/AppData/Local/Temp/UnrealShaderWorkingDir/C07D8EF5418635A68901F9B529302279/'.
+[2018.11.28-13.21.55:404][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.28-13.21.55:421][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.28-13.21.55:440][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.28-13.21.55:456][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.28-13.21.55:473][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.28-13.21.55:489][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.28-13.21.55:506][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.28-13.21.55:522][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.28-13.21.55:530][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.28-13.21.55:640][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.28-13.21.55:703][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-13.21.55:703][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.28-13.21.55:729][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-13.21.55:729][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.28-13.21.55:743][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.28-13.21.55:762][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.28-13.21.55:777][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.28-13.21.55:790][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.28-13.21.55:801][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.28-13.21.55:801][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.28-13.21.55:862][  0]LogXGEController: Cleaning working directory: C:/Users/alexi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.28-13.21.55:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.28-13.21.55:863][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.28-13.21.55:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.28-13.21.56:647][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.28-13.21.56:705][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-13.21.56:705][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.28-13.21.56:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.28-13.21.56:705][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.28-13.21.56:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.28-13.21.56:705][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.28-13.21.56:718][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.28-13.21.56:730][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.28-13.21.56:730][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.28-13.21.56:730][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.28-13.21.56:751][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.28-13.21.56:753][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.28-13.21.56:753][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.28-13.21.56:831][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.11.28-13.21.57:173][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.28-13.21.57:227][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.28-13.21.57:232][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.28-13.21.57:232][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.28-13.21.57:232][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.28-13.21.57:232][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.28-13.21.57:337][  0]LogNetVersion: ProjectShip 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2633931975)
+[2018.11.28-13.21.57:867][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.098407 seconds
+[2018.11.28-13.21.57:874][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.28-13.21.57:874][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.28-13.21.57:874][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.28-13.21.58:768][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.28-13.21.58:782][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.28-13.21.58:933][  0]SourceControl: Source control is disabled
+[2018.11.28-13.21.58:933][  0]SourceControl: Source control is disabled
+[2018.11.28-13.21.58:934][  0]SourceControl: Source control is disabled
+[2018.11.28-13.21.58:935][  0]SourceControl: Source control is disabled
+[2018.11.28-13.21.59:093][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.28-13.21.59:198][  0]LogOcInput: OculusInput pre-init called
+[2018.11.28-13.21.59:260][  0]LogEngine: Initializing Engine...
+[2018.11.28-13.21.59:261][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2018.11.28-13.21.59:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-13.21.59:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-13.21.59:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-13.21.59:263][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-13.21.59:505][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.28-13.21.59:525][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.28-13.21.59:552][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.21.59:609][  0]LogInit: FAudioDevice initialized.
+[2018.11.28-13.21.59:609][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.28-13.21.59:656][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/alexi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.28-13.21.59:665][  0]LogInit: Texture streaming: Enabled
+[2018.11.28-13.21.59:682][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.28-13.21.59:682][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={91A7B421-48DC-411C-BB22-A9BCBEF9D538}
+[2018.11.28-13.21.59:695][  0]LogInit: Transaction tracking system initialized
+[2018.11.28-13.21.59:717][  0]BlueprintLog: New page: Editor Load
+[2018.11.28-13.21.59:790][  0]LocalizationService: Localization service is disabled
+[2018.11.28-13.22.00:064][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.28-13.22.00:064][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.28-13.22.00:064][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.28-13.22.00:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.28-13.22.00:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.28-13.22.00:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.28-13.22.00:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.28-13.22.00:184][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/' took 0.02s
+[2018.11.28-13.22.00:184][  0]SourceControl: Source control is disabled
+[2018.11.28-13.22.00:184][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Scene/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.28-13.22.00:185][  0]LightingResults: New page: Lighting Build
+[2018.11.28-13.22.00:189][  0]MapCheck: New page: Map Check
+[2018.11.28-13.22.00:189][  0]LightingResults: New page: Lighting Build
+[2018.11.28-13.22.01:308][  0]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.22.01:323][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.28-13.22.01:355][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.28-13.22.01:438][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82,999ms to complete.
+[2018.11.28-13.22.01:438][  0]LogFileHelpers: Loading map 'Test' took 1.254
+[2018.11.28-13.22.01:558][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.22.01:568][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.22.01:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.22.01:584][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.22.01:592][  0]LogCollectionManager: Loaded 0 collections in 0.002776 seconds
+[2018.11.28-13.22.01:634][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/Collections/' took 0.01s
+[2018.11.28-13.22.01:634][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Developers/alexi/Collections/' took 0.01s
+[2018.11.28-13.22.01:634][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Collections/' took 0.01s
+[2018.11.28-13.22.01:634][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.28-13.22.01:644][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2572 classes and 603 folders.
+[2018.11.28-13.22.01:654][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.28-13.22.01:691][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.28-13.22.01:696][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.28-13.22.02:816][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.28-13.22.02:846][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.28-13.22.02:849][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.28-13.22.02:857][  0]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.28-13.22.03:017][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProjectShip
+[2018.11.28-13.22.03:017][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-13.22.03:017][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.11.28-13.22.03:017][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.11.28-13.22.03:017][  0]LogTemp: BranchPath = RAZER-BLADE/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = RAZER-BLADE/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.11.28-13.22.03:017][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alexi\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.11.28-13.22.03:017][  0]LogRenderer: Reallocating scene render targets to support 1152x608 Format 10 NumSamples 1 (Frame:1).
+[2018.11.28-13.22.03:207][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.28-13.22.03:207][  0]LogLoad: (Engine Initialization) Total time: 10.14 seconds
+[2018.11.28-13.22.03:207][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.28-13.22.03:218][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.28-13.22.03:247][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.28-13.22.03:342][  2]LogAssetRegistry: Asset discovery search completed in 6.5341 seconds
+[2018.11.28-13.22.03:344][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.28-13.22.03:344][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.11.28-13.22.04:255][ 70]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.28-13.22.37:014][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-13.22.37:142][415]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprint/SpaceShip.SpaceShip
+[2018.11.28-13.22.37:703][415]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.28-13.22.38:573][415]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.28-13.22.38:944][415]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.28-13.22.39:117][416]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.28-13.26.31:503][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.26.31:536][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.26.31:536][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.26.31:549][781]PIE: New page: PIE session: Test (28 nov. 2018 15:26:31)
+[2018.11.28-13.26.31:549][781]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.26.31:570][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020863s)
+[2018.11.28-13.26.31:571][781]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.26.31:572][781]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2018.11.28-13.26.31:572][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.022461s)
+[2018.11.28-13.26.31:618][781]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.26.31:634][781]LogInit: FAudioDevice initialized.
+[2018.11.28-13.26.31:689][781]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.26.31:692][781]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.26.31
+[2018.11.28-13.26.31:693][781]LogWorld: Bringing up level for play took: 0.002136
+[2018.11.28-13.26.31:712][781]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.28-13.26.31:715][781]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test -0,299
+[2018.11.28-13.26.31:715][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.26.35:372][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-13.26.38:631][  0]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2018.11.28-13.26.43:980][473]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] No Action possible
+[2018.11.28-13.26.44:922][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Action possible
+[2018.11.28-13.26.45:530][618]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.26.45:530][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.26.45:595][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.26.45:595][618]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.26.45:631][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.26.45:673][619]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.28-13.26.47:183][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.28-13.41.57:013][964]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:221][964]LogScript: Warning: Accessed None trying to read property CurrentHud
+	SpaceShip_C /Engine/Transient.World_2:PersistentLevel.SpaceShip_C_0
+	Function /Game/Blueprint/SpaceShip.SpaceShip_C:HideHud:000D
+[2018.11.28-13.41.57:901][ 18]LogRenderer: Reallocating scene render targets to support 1152x656 Format 10 NumSamples 1 (Frame:1).
+[2018.11.28-13.42.05:123][546]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-13.42.06:410][623]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.42.06:440][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.42.06:440][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.42.06:441][623]PIE: New page: PIE session: Test (28 nov. 2018 15:42:06)
+[2018.11.28-13.42.06:441][623]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.42.06:454][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013192s)
+[2018.11.28-13.42.06:455][623]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.42.06:456][623]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2018.11.28-13.42.06:456][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.014922s)
+[2018.11.28-13.42.06:495][623]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.42.06:511][623]LogInit: FAudioDevice initialized.
+[2018.11.28-13.42.06:521][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.42.06:640][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.42.06:642][623]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.42.06
+[2018.11.28-13.42.06:642][623]LogWorld: Bringing up level for play took: 0.001251
+[2018.11.28-13.42.06:661][623]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 0,647
+[2018.11.28-13.42.06:661][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.42.08:516][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.42.08:516][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.42.08:547][747]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.42.08:589][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.42.08:590][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.42.08:656][748]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.28-13.43.22:504][159]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/Test_Auto1856A2459428BCA0FBD24A0B382B19521.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/Autosaves/Game/Scene/Test_Auto1.umap'
+[2018.11.28-13.43.22:515][159]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scene/Test' took 0.285
+[2018.11.28-13.43.22:515][159]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.285
+[2018.11.28-13.43.22:519][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.11.28-13.43.22:562][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.11.28-13.43.22:562][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.11.28-13.43.22:640][159]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/ThirdPersonCharacter_Auto1F3F4533C46B239F044957BA87BCF8073.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.11.28-13.43.22:641][159]LogFileHelpers: Auto-saving content packages took 0.124
+[2018.11.28-13.44.16:443][806]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-13.44.32:717][ 41]LogUObjectArray: Warning: Other object in slot
+[2018.11.28-13.44.33:239][ 41]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.521 s
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: 
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: Stack: 
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffb9db571f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffb9d890c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffb9d8ab356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffb988d11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffb988e060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbacdada7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffb966cec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffb9668f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbba4e8204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbba72e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbba54281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbba518190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbba50b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbdbead007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbdbea0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeaf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.28-13.44.33:239][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbdbe9c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbf5df6d41 USER32.dll!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbf5df6713 USER32.dll!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbdbeb0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ff7afdd54e5 UE4Editor.exe!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ff7afde5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ff7afde5bba UE4Editor.exe!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ff7afdf3dac UE4Editor.exe!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ff7afdf5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbf61b3034 KERNEL32.DLL!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: [Callstack] 0x00007ffbf6b61471 ntdll.dll!UnknownFunction []
+[2018.11.28-13.44.33:240][ 41]LogOutputDevice: Error: 
+[2018.11.28-13.44.33:250][ 41]LogStats:                SubmitErrorReport -  0.000 s
+[2018.11.28-13.44.33:566][ 41]LogStats:                    SendNewReport -  0.316 s
+[2018.11.28-13.44.33:566][ 41]LogStats:             FDebug::EnsureFailed -  0.848 s
+[2018.11.28-13.44.33:566][ 41]LogUObjectArray: Warning: Other object in slot
+[2018.11.28-13.44.35:537][112]LogUObjectArray: Warning: Other object in slot
+[2018.11.28-13.44.35:537][112]LogUObjectArray: Warning: Other object in slot
+[2018.11.28-13.45.25:645][699]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/ThirdPersonCharacterC1CEA4D14B820EE36BEDC0B34BD3C472.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.28-13.45.44:969][548]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-13.45.46:897][670]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.46:898][670]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.46:902][670]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.46:903][670]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.46:907][670]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.46:913][670]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:172][684]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:173][684]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:176][684]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:185][684]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:196][685]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:196][685]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:199][685]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.45.47:206][685]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.47.35:867][ 37]LogEditorTransaction: Undo Rename Component Variable
+[2018.11.28-13.48.59:063][508]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:065][508]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:067][508]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:067][508]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:068][508]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:069][508]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:073][508]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:082][509]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:084][509]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:091][509]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:100][510]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:102][510]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.48.59:109][510]LogUObjectArray: Warning: Invalid object index 7274612
+[2018.11.28-13.49.02:385][697]BlueprintLog: New page: Compile SpaceShip
+[2018.11.28-13.49.03:409][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SpaceShip" FILE="../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Blueprint/SpaceShip.uasset" SILENT=true
+[2018.11.28-13.49.03:573][724]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/SpaceShip464920C94F4A49A09F037AB7F4ACA7B3.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/Blueprint/SpaceShip.uasset'
+[2018.11.28-13.49.04:150][757]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.49.04:206][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.04:206][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.49.04:206][757]PIE: New page: PIE session: Test (28 nov. 2018 15:49:04)
+[2018.11.28-13.49.04:206][757]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.49.04:220][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013280s)
+[2018.11.28-13.49.04:221][757]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.49.04:221][757]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2018.11.28-13.49.04:221][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.014760s)
+[2018.11.28-13.49.04:262][757]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.49.04:278][757]LogInit: FAudioDevice initialized.
+[2018.11.28-13.49.04:288][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.49.04:500][757]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.49.04:503][757]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.49.04
+[2018.11.28-13.49.04:503][757]LogWorld: Bringing up level for play took: 0.002040
+[2018.11.28-13.49.04:523][757]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 0,509
+[2018.11.28-13.49.04:523][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.10:215][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.10:216][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.49.10:243][ 17]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.49.10:311][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.49.10:311][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.10:497][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.28-13.49.21:123][674]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/ThirdPersonCharacter36BC13C04DDB3D347E0C4B9FF12B7B45.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.28-13.49.31:516][710]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-13.49.32:449][762]LogSavePackage: Moving '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Saved/ThirdPersonCharacterDEF66C674D7E8D648C732C9A1C3E88CF.tmp' to '../../../../../../Users/alexi/Unreal Engine/-UE4-Code-Spaceship/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.28-13.49.43:713][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.49.43:740][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.43:740][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.49.43:740][865]PIE: New page: PIE session: Test (28 nov. 2018 15:49:43)
+[2018.11.28-13.49.43:740][865]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.49.43:752][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012329s)
+[2018.11.28-13.49.43:753][865]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.49.43:754][865]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2018.11.28-13.49.43:754][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.013684s)
+[2018.11.28-13.49.43:798][865]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.49.43:814][865]LogInit: FAudioDevice initialized.
+[2018.11.28-13.49.43:825][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.49.43:936][865]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.49.43:938][865]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.49.43
+[2018.11.28-13.49.43:939][865]LogWorld: Bringing up level for play took: 0.002168
+[2018.11.28-13.49.43:955][865]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test -0,059
+[2018.11.28-13.49.43:956][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.46:803][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.46:804][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.49.46:832][ 92]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.49.46:879][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.49.46:879][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.46:946][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.28-13.49.55:719][986]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.28-13.49.56:723][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.49.56:750][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.56:750][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.49.56:751][ 56]PIE: New page: PIE session: Test (28 nov. 2018 15:49:56)
+[2018.11.28-13.49.56:751][ 56]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.49.56:762][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010932s)
+[2018.11.28-13.49.56:763][ 56]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.49.56:763][ 56]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2018.11.28-13.49.56:763][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.012361s)
+[2018.11.28-13.49.56:805][ 56]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.49.56:822][ 56]LogInit: FAudioDevice initialized.
+[2018.11.28-13.49.56:832][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.49.56:912][ 56]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.49.56:914][ 56]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.49.56
+[2018.11.28-13.49.56:915][ 56]LogWorld: Bringing up level for play took: 0.001158
+[2018.11.28-13.49.56:930][ 56]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 0,917
+[2018.11.28-13.49.56:930][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.58:381][172]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.49.58:844][213]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.49.59:075][233]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.49.59:271][250]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.49.59:523][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.59:523][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.49.59:549][272]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.49.59:596][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.49.59:597][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.49.59:654][273]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.28-13.50.08:002][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.50.08:034][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.08:034][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.50.08:034][ 80]PIE: New page: PIE session: Test (28 nov. 2018 15:50:08)
+[2018.11.28-13.50.08:034][ 80]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.50.08:045][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011270s)
+[2018.11.28-13.50.08:046][ 80]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.50.08:046][ 80]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2018.11.28-13.50.08:046][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.012512s)
+[2018.11.28-13.50.08:086][ 80]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.50.08:101][ 80]LogInit: FAudioDevice initialized.
+[2018.11.28-13.50.08:109][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.50.08:188][ 80]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.50.08:190][ 80]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.50.08
+[2018.11.28-13.50.08:190][ 80]LogWorld: Bringing up level for play took: 0.001180
+[2018.11.28-13.50.08:206][ 80]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 0,193
+[2018.11.28-13.50.08:206][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.10:827][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.14:446][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.14:446][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.50.14:473][597]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.50.14:536][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.50.14:536][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.14:603][598]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.28-13.50.15:791][709]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.50.15:821][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.15:821][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.50.15:822][709]PIE: New page: PIE session: Test (28 nov. 2018 15:50:15)
+[2018.11.28-13.50.15:822][709]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.50.15:837][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014889s)
+[2018.11.28-13.50.15:837][709]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.50.15:838][709]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.11.28-13.50.15:838][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.015841s)
+[2018.11.28-13.50.15:876][709]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.50.15:892][709]LogInit: FAudioDevice initialized.
+[2018.11.28-13.50.15:903][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.50.15:977][709]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.50.15:979][709]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.50.15
+[2018.11.28-13.50.15:979][709]LogWorld: Bringing up level for play took: 0.001236
+[2018.11.28-13.50.15:995][709]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test -0,018
+[2018.11.28-13.50.15:995][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.19:179][960]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.19:563][994]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.19:768][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.19:982][ 31]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.20:188][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.20:422][ 70]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.20:646][ 90]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.20:901][112]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.21:121][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.21:406][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] err
+[2018.11.28-13.50.25:055][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.25:055][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.50.25:084][457]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.50.25:126][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.50.25:126][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.25:191][458]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.28-13.50.30:093][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.50.30:117][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.30:117][983]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.28-13.50.30:134][983]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2018.11.28-13.50.30:362][983]LogPlayLevel: PlayLevel: Blueprint regeneration took 245 ms (1 blueprints)
+[2018.11.28-13.50.30:363][983]PIE: New page: PIE session: Test (28 nov. 2018 15:50:30)
+[2018.11.28-13.50.30:363][983]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.50.30:374][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010970s)
+[2018.11.28-13.50.30:375][983]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.50.30:375][983]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2018.11.28-13.50.30:375][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.012461s)
+[2018.11.28-13.50.30:412][983]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.50.30:428][983]LogInit: FAudioDevice initialized.
+[2018.11.28-13.50.30:438][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.50.30:512][983]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.50.30:514][983]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.50.30
+[2018.11.28-13.50.30:515][983]LogWorld: Bringing up level for play took: 0.001636
+[2018.11.28-13.50.30:530][983]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test 0,516
+[2018.11.28-13.50.30:530][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.34:184][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.34:185][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.50.34:211][279]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.50.34:252][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.50.34:252][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.34:313][280]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.28-13.50.42:894][787]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:895][787]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:898][787]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:902][787]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:907][787]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:914][788]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:920][788]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:928][789]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:929][789]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:938][789]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:945][790]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:947][790]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:953][790]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:961][791]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:969][791]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:978][792]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:982][792]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:989][793]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.42:997][793]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:004][794]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:009][794]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:017][795]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:022][795]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:031][796]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:036][796]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:044][797]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:049][797]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:056][798]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:065][798]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:072][799]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:074][799]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:085][799]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:090][800]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:092][800]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:101][800]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:106][801]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:108][801]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:118][801]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:123][802]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:125][802]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:134][802]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:139][803]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:140][803]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:149][803]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:156][804]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:165][804]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:170][805]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:172][805]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:183][805]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:189][806]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:196][806]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:203][807]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:207][807]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:216][808]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:220][808]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:228][809]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:233][809]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:242][810]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:249][810]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:255][811]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:262][811]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:268][812]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:273][812]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:283][813]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:287][813]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:297][814]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:303][814]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:312][815]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:317][815]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:326][816]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:331][816]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:338][817]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:345][817]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:352][818]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:356][818]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:365][819]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:370][819]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:380][820]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:385][820]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:395][821]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:399][821]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:407][822]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:413][822]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:419][823]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:423][823]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:432][824]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:438][824]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:447][825]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:451][825]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:461][826]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:466][826]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:473][827]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:480][827]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:487][828]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:493][828]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:501][829]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:502][829]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:509][829]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:516][830]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:520][830]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:530][831]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:534][831]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:541][832]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:548][832]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:554][833]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:560][833]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:567][834]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:572][834]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:582][835]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:590][835]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:599][836]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:603][836]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:612][837]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:616][837]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:625][838]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:633][838]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:638][839]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:645][839]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:653][840]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:657][840]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:666][841]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:670][841]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:679][842]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:683][842]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:690][843]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:698][843]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:704][844]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:709][844]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:718][845]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:722][845]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:731][846]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:736][846]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:745][847]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:750][847]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:757][848]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:764][848]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:772][849]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:779][849]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:786][850]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:793][850]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:802][851]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:803][851]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:810][851]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:817][852]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:818][852]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:827][852]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:833][853]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:835][853]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:842][853]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:848][854]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:850][854]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:856][854]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:864][855]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:870][855]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:878][856]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:883][856]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:891][857]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:899][857]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:905][858]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:911][858]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:917][859]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:924][859]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:934][860]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:939][860]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:948][861]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:953][861]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:963][862]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:968][862]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:977][863]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:981][863]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.43:992][864]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:001][864]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:007][865]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:014][865]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:021][866]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:029][866]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:036][867]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:037][867]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:045][867]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:052][868]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:057][868]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:066][869]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:070][869]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:079][870]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:083][870]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:094][871]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:099][871]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:106][872]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:113][872]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:120][873]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:124][873]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:134][874]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:138][874]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:148][875]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:152][875]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:160][876]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:166][876]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:174][877]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:180][877]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:188][878]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:198][878]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:205][879]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:210][879]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:219][880]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:223][880]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:233][881]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:237][881]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:247][882]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:252][882]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:259][883]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:267][883]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:272][884]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:279][884]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:285][885]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:290][885]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:299][886]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:303][886]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:312][887]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:316][887]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:325][888]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:332][888]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:338][889]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:344][889]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:351][890]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:356][890]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:365][891]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:369][891]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:378][892]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:382][892]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:390][893]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:400][893]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:406][894]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:415][894]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:421][895]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:422][895]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:433][895]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:937][930]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:938][930]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:943][930]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:946][930]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.44:949][930]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:181][945]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:195][946]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:211][947]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:224][948]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:238][949]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:251][950]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:264][951]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:278][952]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:289][953]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:303][954]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:318][955]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:332][956]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:345][957]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:357][958]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:371][959]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:384][960]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:398][961]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:411][962]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:425][963]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:438][964]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:451][965]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:464][966]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:478][967]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:491][968]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:503][969]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.45:517][970]LogUObjectBase: Warning: Object is not registered
+[2018.11.28-13.50.53:264][512]LogUObjectArray: Warning: Other object in slot
+[2018.11.28-13.50.53:740][546]BlueprintLog: New page: Compile SpaceShip
+[2018.11.28-13.50.57:533][784]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.50.57:586][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.50.57:586][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.50.57:586][784]PIE: New page: PIE session: Test (28 nov. 2018 15:50:57)
+[2018.11.28-13.50.57:586][784]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.50.57:597][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010741s)
+[2018.11.28-13.50.57:598][784]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.50.57:599][784]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2018.11.28-13.50.57:599][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.012573s)
+[2018.11.28-13.50.57:638][784]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.50.57:657][784]LogInit: FAudioDevice initialized.
+[2018.11.28-13.50.57:668][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.50.57:742][784]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.50.57:745][784]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2018.11.28-14.50.57
+[2018.11.28-13.50.57:745][784]LogWorld: Bringing up level for play took: 0.001835
+[2018.11.28-13.50.57:761][784]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test -0,252
+[2018.11.28-13.50.57:761][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.51.09:674][456]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.51.09:675][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.51.09:703][456]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.51.09:770][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.51.09:770][456]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.51.09:949][457]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.28-13.51.52:998][379]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.51.53:028][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.51.53:028][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.51.53:028][379]PIE: New page: PIE session: Test (28 nov. 2018 15:51:53)
+[2018.11.28-13.51.53:028][379]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.51.53:043][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014786s)
+[2018.11.28-13.51.53:044][379]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.51.53:044][379]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.11.28-13.51.53:044][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.016023s)
+[2018.11.28-13.51.53:088][379]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.51.53:104][379]LogInit: FAudioDevice initialized.
+[2018.11.28-13.51.53:115][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.51.53:209][379]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.51.53:212][379]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.11.28-14.51.53
+[2018.11.28-13.51.53:213][379]LogWorld: Bringing up level for play took: 0.002047
+[2018.11.28-13.51.53:235][379]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test -0,779
+[2018.11.28-13.51.53:235][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.52.09:689][873]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.52.09:690][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.52.09:714][873]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.52.09:799][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.52.09:799][873]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.52.09:971][874]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.28-13.52.11:453][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.28-13.52.11:490][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.52.11:490][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.28-13.52.11:490][933]PIE: New page: PIE session: Test (28 nov. 2018 15:52:11)
+[2018.11.28-13.52.11:490][933]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_Test
+[2018.11.28-13.52.11:499][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009130s)
+[2018.11.28-13.52.11:501][933]LogAIModule: Creating AISystem for world Test
+[2018.11.28-13.52.11:501][933]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.11.28-13.52.11:501][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/Test.Test to /Game/Scene/UEDPIE_0_Test.Test (0.010615s)
+[2018.11.28-13.52.11:544][933]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.28-13.52.11:562][933]LogInit: FAudioDevice initialized.
+[2018.11.28-13.52.11:574][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.52.11:661][933]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.28-13.52.11:664][933]LogWorld: Bringing World /Game/Scene/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2018.11.28-14.52.11
+[2018.11.28-13.52.11:664][933]LogWorld: Bringing up level for play took: 0.001408
+[2018.11.28-13.52.11:684][933]PIE: Play in editor start time for /Game/Scene/UEDPIE_0_Test -0,33
+[2018.11.28-13.52.11:684][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.52.43:766][895]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.52.43:766][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.28-13.52.43:791][895]LogSlate: Window 'ProjectShip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.28-13.52.43:869][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.28-13.52.43:870][895]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scene/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Scene/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Scene/Test.Test_C' with ClassGeneratedBy '/Game/Scene/Test.Test:PersistentLevel.Test'
+[2018.11.28-13.52.44:050][896]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.28-13.53.21:008][742]BlueprintLog: New page: Compile SpaceShip
+[2018.11.28-13.54.30:148][744]LogEditorTransaction: Undo Add Node
+[2018.11.28-13.54.31:248][777]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:146 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.11.28-13.54.31:248][777]LogD3D11RHI: [Aftermath] GDynamicRHI=0000026CBD21A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2018.11.28-13.54.31:248][777]LogWindows: Windows GetLastError: L’opération a réussi. (0)
